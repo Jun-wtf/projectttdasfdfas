@@ -1,3 +1,4 @@
+# Made IN Korea
 class Roblox:
     def __init__(self, name, r, color, sex):
         self.name = name
@@ -14,4 +15,5 @@ class Roblox:
 # [name] = Roblox('[name]', '[r6 / r15]', '[color]', '[sex]')
 # [name].print_info()
 Owner = Roblox('HD', '6', 'black', 'man')
+
 Owner.print_info()
