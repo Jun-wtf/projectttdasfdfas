@@ -1,4 +1,4 @@
-# Made IN Korea
+# Made In Korea
 class Roblox:
     def __init__(self, name, r, color, sex):
         self.name = name
