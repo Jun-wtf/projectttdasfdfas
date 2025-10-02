@@ -12,6 +12,7 @@ class Roblox:
         print(f"system : {self.name}님의 성별은 {self.sex} 입니다.")
     # def __del__(self):
     #     print(f"Server : {self.name}님 이/가 삭재되었습니다.")
+
 # [name] = Roblox('[name]', '[r6 / r15]', '[color]', '[gender]')
 # [name].print_info()
 Owner = Roblox('HD', '6', 'black', 'man')
