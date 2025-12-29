@@ -1,6 +1,6 @@
 # Made In Korea
 class Roblox:
-    def __init__(self, name, r, color, sex):
+    def __init__(self, name, r, color, gender):
         self.name = name
         self.r = r
         self.color = color
